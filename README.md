@@ -1,6 +1,4 @@
  SpringMVCFreemarker视图解析：
-    <!-- 配置自定扫描的包 -->
-	<context:component-scan base-package="com.itdragon.springmvc" />
 	<!-- 整合Freemarker -->
 	<!-- 放在InternalResourceViewResolver的前面，优先找freemarker -->
 	<bean id="freemarkerConfig" class="org.springframework.web.servlet.view.freemarker.FreeMarkerConfigurer">
