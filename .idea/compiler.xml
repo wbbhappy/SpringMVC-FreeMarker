@@ -23,11 +23,13 @@
         <outputRelativeToContentRoot value="true" />
         <processorPath useClasspath="true" />
         <module name="springmvc" />
+        <module name="SpringMVC-FreeMarker" />
         <module name="springmvcfreemarker" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
       <module name="springmvc" target="1.8" />
+      <module name="SpringMVC-FreeMarker" target="1.8" />
       <module name="springmvcfreemarker" target="1.8" />
     </bytecodeTargetLevel>
   </component>
