@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/springmvcfreemarker.iml" filepath="$PROJECT_DIR$/springmvcfreemarker.iml" />
+      <module fileurl="file://$PROJECT_DIR$/SpringMVC-FreeMarker.iml" filepath="$PROJECT_DIR$/SpringMVC-FreeMarker.iml" />
     </modules>
   </component>
 </project>
